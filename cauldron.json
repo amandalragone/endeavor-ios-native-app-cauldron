@@ -12,12 +12,23 @@
               "codePush": {},
               "container": {
                 "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
+                "miniApps": [
+                  "git+ssh://git@github.com/amandalragone/endeavorminiapp.git#1.0.0"
+                ],
+                "nativeDeps": [
+                  "ernnavigation-api-impl-native@2.1.0",
+                  "ernnavigation-api@2.1.0",
+                  "react-native-electrode-bridge@1.6.0",
+                  "react-native@0.68.7"
+                ],
+                "ernVersion": "0.51.0"
               },
               "isReleased": false,
               "nativeDeps": [],
-              "yarnLocks": {}
+              "yarnLocks": {
+                "container": "dd437f3c-6441-432d-9781-77bf6c986598"
+              },
+              "containerVersion": "1.0.0"
             }
           ]
         }
