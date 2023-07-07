@@ -2032,9 +2032,9 @@ end-of-stream@^1.1.0:
   dependencies:
     once "^1.4.0"
 
-"endeavorminiapp@git+ssh://git@github.com/amandalragone/endeavorminiapp.git#1.0.3":
+"endeavorminiapp@git+ssh://git@github.com/amandalragone/endeavorminiapp.git#1.0.4":
   version "0.0.1"
-  resolved "git+ssh://git@github.com/amandalragone/endeavorminiapp.git#31603966ae87c782f0f6d472e34e172c7dc7f546"
+  resolved "git+ssh://git@github.com/amandalragone/endeavorminiapp.git#5d038c17cb7f0d560e207c2b23ae3d51f31905b5"
   dependencies:
     ern-navigation "^2.1.0"
     react "17.0.2"
