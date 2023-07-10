@@ -13,7 +13,7 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "git+ssh://git@github.com/amandalragone/endeavorminiapp.git#1.0.6"
+                  "git+ssh://git@github.com/amandalragone/endeavorminiapp.git#1.0.7"
                 ],
                 "nativeDeps": [
                   "ernnavigation-api-impl-native@2.1.0",
@@ -28,7 +28,7 @@
               "yarnLocks": {
                 "container": "dd437f3c-6441-432d-9781-77bf6c986598"
               },
-              "containerVersion": "1.0.6"
+              "containerVersion": "1.0.7"
             }
           ]
         }
